@@ -1,9 +1,0 @@
-data class CarListing(
-@Id
-val id: Long,
-@Column(name = "description")
-val description: String,
-@Column(name = "type_id")
-@ManyToOne(mappedBy = "car_listings)
-val type: Type
-)
