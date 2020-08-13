@@ -1,0 +1,5 @@
+create table car_listings (
+id bigserial primary key,
+description text,
+type_id foreign key references types(id)
+)
