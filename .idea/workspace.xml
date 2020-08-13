@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="0a7032bd-f3ee-4693-9cf1-28704384ff30" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/TestRepository.iml" afterDir="false" />
@@ -8,6 +9,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="0a7032bd-f3ee-4693-9cf1-28704384ff30" name="Default Changelist" comment="" />
+>>>>>>> tea-kristina
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +59,11 @@
       <option name="presentableId" value="Default" />
       <updated>1597250656583</updated>
       <workItem from="1597250657964" duration="4444000" />
+<<<<<<< HEAD
       <workItem from="1597321601297" duration="785000" />
+=======
+      <workItem from="1597321601297" duration="1524000" />
+>>>>>>> tea-kristina
     </task>
     <servers />
   </component>
